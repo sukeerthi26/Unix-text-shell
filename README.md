@@ -1,6 +1,7 @@
 # Unix-text-shell
 
 Supporting core functionalities :
+
 process execution
 
  I/O redirection
