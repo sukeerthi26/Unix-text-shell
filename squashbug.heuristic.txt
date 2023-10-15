@@ -1,0 +1,2 @@
+﻿A malware process often spawns multiple child processes, hence processes with a large number of child processes can be marked as suspicious. A malware process typically runs for a longer duration than a normal process but it may spawn many processes in a short period of time. The heuristic we are considering is 
+        Process spawns many child processes in a short period of time
